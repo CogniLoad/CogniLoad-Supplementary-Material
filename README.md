@@ -25,7 +25,7 @@ At its core, the project utilizes the **Collective Orchestration Framework (COF)
 
 <div align="center">
 
-> ⚠️ **Important:** This research is currently prepared for submission to **ACL 2026**.
+> 💡 **Important:** This research is currently prepared for submission to **ACL 2026**.
 
 </div>
 
@@ -210,22 +210,6 @@ The Orchestrator synthesizes all reasoning chains into a final structured JSON o
 
 ---
 
-## 📜 Citation
-
-<div align="center">
-
-If you find this work helpful for your research, please use the following BibTeX entry:
-
-</div>
-
-```bibtex
-@article{tu2026cogniload,
-  title={CogniLoad: Collective Orchestration Framework for Evaluating and Mitigating Cognitive Overload in Large Language Models},
-  author={Tu, Binghao and Yu, Zengyi and Jin, Sheng and Zhang, Yao and Xu, Mingwei and Zhang, Mingzi and Jiang, Yilin and Zhang, Xiaoqing and Weng, Jidong and Han, Xiaoyang},
-  journal={arXiv preprint (Submission for ACL 2026)},
-  year={2026}
-}
-```
 
 ---
 
@@ -236,13 +220,6 @@ If you find this work helpful for your research, please use the following BibTeX
 ### 🌐 Project Website
 
 **[https://cogniload.github.io/](https://cogniload.github.io/)**
-
-### 👤 Principal Author
-
-**Binghao Tu**  
-*Zhejiang University of Technology*
-
----
 
 <div align="center">
 
