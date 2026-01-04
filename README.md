@@ -210,6 +210,8 @@ The Orchestrator synthesizes all reasoning chains into a final structured JSON o
 
 <div align="center">
 
+---
+
 ### 🌐 Project Website
 
 **[https://cogniload.github.io/](https://cogniload.github.io/)**
