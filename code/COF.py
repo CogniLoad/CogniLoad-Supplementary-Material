@@ -204,7 +204,7 @@ def clean_and_parse_json(model_output_str):
         raise json.JSONDecodeError("Could not find a valid JSON object in the model output.", model_output_str, 0)
 
 def process_single_file_with_model(input_file, output_file, model_config, current_key_index=0):
-    # ... (Your file reading and progress recovery logic remains unchanged)
+    # ... (Your file reading and progress recovery logic remains unsuccessful)
     try:
         with open(input_file, 'r', encoding='utf-8') as f:
             questions = json.load(f)
