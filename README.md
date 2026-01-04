@@ -4,8 +4,6 @@
 
 ### Do Large Language Models Suffer from Cognitive Overload? A Benchmark and Orchestration Framework
 
-**Binghao Tu, Zengyi Yu, Sheng Jin, Yao Zhang, Mingwei Xu, Mingzi Zhang, Yilin Jiang, Xiaoqing Zhang, Jidong Weng, Xiaoyang Han**
-
 <div>
 
 [![Project Website](https://img.shields.io/badge/🌐-Project%20Website-0066CC?style=for-the-badge)](https://cogniload.github.io/)
