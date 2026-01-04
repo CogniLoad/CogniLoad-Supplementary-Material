@@ -15,21 +15,18 @@
 
 ## 📌 Overview
 
-<div align="center">
-
 > **CogniLoad** is an experimental framework designed to research and mitigate **Cognitive Overload** in Large Language Models (LLMs) when processing complex, redundant, or contradictory information streams.
 
 </div>
 
 At its core, the project utilizes the **Collective Orchestration Framework (COF)**, which simulates a multi-expert collaborative environment. By implementing **Task Decomposition**, **Collective Memory**, and **Iterative Refinement**, CogniLoad significantly enhances the logical stability and accuracy of models under extreme cognitive pressure.
 
-<div align="center">
 
 > 💡 **Important:** This research is currently prepared for submission to **ACL 2026**.
 
 </div>
 
-<div align="center">
+
 
 </div>
 
