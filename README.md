@@ -3,7 +3,6 @@
 <img src="https://github.com/CogniLoad/CogniLoad.github.io/blob/main/paper_logo.png" width="120px"/>
 
 ### Do Large Language Models Suffer from Cognitive Overload? A Benchmark and Orchestration Framework
-
 <div>
 
 [![Project Website](https://img.shields.io/badge/🌐-Project%20Website-0066CC?style=for-the-badge)](https://cogniload.github.io/)
@@ -23,7 +22,8 @@ At its core, the project utilizes the **Collective Orchestration Framework (COF)
 
 
 > 💡 **Important:** This research is currently prepared for submission to **ACL 2026**.
-
+</div>
+Specific and detailed code and data will be fully open-sourced upon the paper's acceptance
 </div>
 
 
